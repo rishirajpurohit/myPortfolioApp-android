@@ -7,7 +7,8 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="in.rishirajpurohit.android.myportfolioapp.myPortfolioApp">
+    tools:context="in.rishirajpurohit.android.myportfolioapp.myPortfolioApp"
+    android:background="@android:color/holo_blue_light">
 
     <TextView
         android:layout_width="wrap_content"
@@ -18,7 +19,8 @@
         android:layout_marginTop="60dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:paddingBottom="30dp" />
+        android:paddingBottom="30dp"
+        android:textColor="@android:color/white" />
 
     <Button
         android:layout_width="wrap_content"
