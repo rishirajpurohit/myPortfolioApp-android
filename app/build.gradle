@@ -24,3 +24,6 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.3.0'
 }
+
+//rex-google firebase code for FCM
+apply plugin: 'com.google.gms.google-services'

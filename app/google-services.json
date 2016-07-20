@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "972769816511",
+    "firebase_url": "https://campage-app.firebaseio.com",
+    "project_id": "campage-app",
+    "storage_bucket": "campage-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972769816511:android:b8f6da0214ca9048",
+        "android_client_info": {
+          "package_name": "in.rishirajpurohit.android.myportfolioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972769816511-agvik5ksfsd6233udu1a8nv8fe4365pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6r-62Y_SrWB_w3Q8KgfC65UxO--8Tg1I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
